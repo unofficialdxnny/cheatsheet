@@ -1,6 +1,11 @@
 <h1 align="center">CheatSheet</h1> 
 <p align="center">These are sheets containing 'Beginner' to 'Intermediate' levels created to help you :)</p>
 
+
+<p align="center">
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpMvwTEJdqSmBcn2ZIJwoZ5_SEb3VZuUGIx-IvwMcj4vT3RyDfuBOPYkrBQKBfmydqQAs&usqp=CAU">
+</p
+
 <p align="center">
    <img src="./images/1.png">
 </p>
