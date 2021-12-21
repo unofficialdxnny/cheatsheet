@@ -1,2 +1,2 @@
  
-Computer Science cheat 
+Computer Science 
